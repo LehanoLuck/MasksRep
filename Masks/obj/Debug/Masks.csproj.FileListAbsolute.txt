@@ -1,0 +1,9 @@
+C:\Users\Acer\source\repos\Masks\Masks\bin\Debug\Masks.exe.config
+C:\Users\Acer\source\repos\Masks\Masks\bin\Debug\Masks.exe
+C:\Users\Acer\source\repos\Masks\Masks\bin\Debug\Masks.pdb
+C:\Users\Acer\source\repos\Masks\Masks\obj\Debug\Masks.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\Masks\Masks\obj\Debug\Masks.Form1.resources
+C:\Users\Acer\source\repos\Masks\Masks\obj\Debug\Masks.Properties.Resources.resources
+C:\Users\Acer\source\repos\Masks\Masks\obj\Debug\Masks.csproj.GenerateResource.cache
+C:\Users\Acer\source\repos\Masks\Masks\obj\Debug\Masks.exe
+C:\Users\Acer\source\repos\Masks\Masks\obj\Debug\Masks.pdb
